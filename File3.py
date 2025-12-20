@@ -1,7 +1,8 @@
  # create a python file with adding 2 numbers
 
-a = 4
-b = 5
+a = 100
+b = 450
+
 
 def add_numbers(a, b):
 	return a + b
